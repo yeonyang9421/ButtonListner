@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      * onCreate() 메서드는 액티비티가 생성될 때 호출되는 메서드입니다.
-     *   git commit --date="2019-9-9 12:00:00 +0900" -m "주석"
+     *   git commit --date="2019-9-10 12:00:00 +0900" -m "주석"
      * 여기서 setContentView() 메서드를 호출하여 액티비티의 레이아웃을 설정합니다.
      * 또한, findViewById() 메서드를 호출하여 버튼과 텍스트뷰를 찾아서 변수에 저장합니다.
      * 마지막으로, setOnClickListener() 메서드를 호출하여 버튼의 클릭 이벤트를 처리합니다.
